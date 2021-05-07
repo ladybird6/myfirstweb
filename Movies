@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>PELICULAS</title>
+    </head>
+    <body bgcolor="DD8899">
+        
+<marquee behavior=alternate>
+<h1>Mis favoritas</h1>
+</marquee>
+<hr>
+
+    <ol>
+      <li>   
+          <h2>Cinema</h2>   
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fgirlsatfilms%2Fstatus%2F1315703085344456704&psig=AOvVaw36SmbzsLswFFEgPz9X4TdZ&ust=1615680609468000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODmvLr9q-8CFQAAAAAdAAAAABAD" alt="Directora" width="100"> 
+
+             <ol>
+                 <li value="20" >Recomendaciones.
+                 <li><strong>A gosht History.</strong>
+                 <li><em>I need to talk about kevin.</em>
+             </ol>            
+     <li>
+        <h2>top</h2>
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elantepenultimomohicano.com%2F2017%2F06%2Fcritica-ghost-story.html&psig=AOvVaw23jy4QTPEJh9H8jZLXfCCb&ust=1615680842045000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD13Kn-q-8CFQAAAAAdAAAAABAI" width="200"> 
+
+             <ul>
+                 <li type ="circle"> Mas recomendaciones.
+                 <li type ="square"> A-gela.
+                 <li type ="disc">The dreamers.
+                 <li> Marrie history.
+             </ul>            
+     <li>   
+        <h2>Mi favorita de las anteriores:</h2>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newyorker.com%2Fculture%2Fthe-front-row%2Fwhats-missing-from-the-brilliant-marriage-story&psig=AOvVaw25iI_oinWPAc3W8YElvwWl&ust=1615681015204000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCc1Pv-q-8CFQAAAAAdAAAAABAD" alt="imagen grande de la herramienta" width="400"> 
+        
+        <p>CSS Difruta de cualquer pelicula</p>
+        <p>CSS :) </p>
+        <p>ids 6mort6</p>
+
+
+    </body>
+</html>
